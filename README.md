@@ -7,24 +7,14 @@
 - Two templates were used: the user interface and the admin panel.
 - The products added to the cart from the products page are completed on the payment page and an order is created. All orders are displayed in the admin panel. Past order information is displayed in the user's My Account information panel.
 
-<h5> General Information </h5>
-
-- Firstly, the relevant report for the project has been added in the "2019556055_2019556032_ECommerce" file in .docx and .pdf formats. 
-- Secondly, the YouTube link related to the implementation of the project is added below in the readme file.
-
 <h5> Technical Information </h5>
 
 - C# programming language and .net core 8 frameworks were used in the project.
 - HTML5, CSS, and JavaScript were used in the project.
+- Entity framework and identity libraries were used in the project. It has implemented authentication and authentication with the Identity library.
 
-<h5> Youtube Link </h5>
+<h5> About Me </h5>
 
-- You can access the YouTube video link regarding the presentation and implementation of the project [here](https://www.youtube.com/watch?v=WY2T1zfTK1g).
-- Just in case, the relevant video link is attached below.
-     - https://www.youtube.com/watch?v=WY2T1zfTK1g
-
-<h5> About Us </h5>
-
-- Ali Can SARIBOĞA (2019556055)
-- Oğuzhan GÜNEY (2019556032)
+- Ali Can SARIBOĞA
+- You can contact and connect with me [here](https://www.linkedin.com/in/alicansariboga/).
 </br>
